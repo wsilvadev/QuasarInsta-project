@@ -11,7 +11,10 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "axios": "^0.18.1",
+    "cordova": "^10.0.0",
+    "cordova-plugin-camera": "^5.0.1",
     "core-js": "^3.6.5",
+    "md-gum-polyfill": "^1.0.0",
     "quasar": "^1.0.0"
   },
   "devDependencies": {
